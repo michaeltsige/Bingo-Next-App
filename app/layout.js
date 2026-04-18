@@ -12,7 +12,7 @@ const outfit = Outfit({
 });
 
 export const metadata = {
-  title: "Dil Bingo",
+  title: "Besh Bingo",
   description: "Ethiopian Bingo Game",
   manifest: "/manifest.json",
   viewport:

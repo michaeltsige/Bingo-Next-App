@@ -17,7 +17,7 @@ export function HomeScreen({ onPlay, onWatch, balance = 10 }) {
         <div className="text-center">
           <p className="text-gray-400 text-sm mb-1">Welcome to</p>
           <h2 className="text-4xl font-display font-bold text-bingo-gold tracking-wider">
-            DIL BINGO
+            BESH BINGO
           </h2>
         </div>
 

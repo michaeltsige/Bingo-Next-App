@@ -70,7 +70,7 @@ export default function Home() {
         <div className="px-6 py-4">
           <div className="flex justify-between items-center mb-6">
             <h1 className="text-2xl font-display font-bold text-white">
-              DIL BINGO
+              BESH BINGO
             </h1>
             <button className="bg-white/10 px-4 py-1 rounded-full text-xs font-medium border border-white/10 backdrop-blur-md">
               Rules
